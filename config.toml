@@ -1,0 +1,69 @@
+baseURL = 'https://tunefish.at/'
+languageCode = 'de-AT'
+title = 'tunefish Blog'
+theme = 'm10c'
+
+[outputs]
+home = [ "RSS", "HTML" ]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
+[menu]
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"
+    weight = 4
+
+[params]
+    author = 'tunefish'
+    avatar = 'img/tunalogo.png'
+    description = 'IT Research, Privacy, Hacking, Nonsense'
+    menu_item_separator = '<br>'
+
+[[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/tunefish777"
+
+#[[params.social]]
+#    icon = "twitter"
+#    name = "Twitter"
+#    url = "https://twitter.com/tunefish_777"
+
+[[params.social]]
+    icon = "mastodon"
+    name = "Mastodon"
+    url = "https://infosec.exchange/@tunefish"
+
+[[params.social]]
+    icon = "mail"
+    name = "email"
+    url = "mailto:tunefish@tunefish.at"
+
+[[params.social]]
+    icon = "rss"
+    identifier = "rss"
+    name = "RSS"
+    url = "feed.xml"
