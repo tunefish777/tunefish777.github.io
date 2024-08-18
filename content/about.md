@@ -9,10 +9,16 @@ Before that, I was employed at [AVL List GmbH](https://www.avl.com) as a student
 My interests are fairly widespread.
 When it comes to computer science I mostly enjoy working with hardware.
 This includes both interacting with real hardware (as in building and measuring things) as well as anything related to hardware simulation, synthesis and verification.
-In terms of research, I chose to focus on memory safety topics related to capability architectures, especially the CHERI ISA extension.
-In my free time, I am a member of [machquadrat](https://machquadrat.org), a hacker-/makerspace in Styria/Austria and I am also an aspiring amateur musician.
-I play euphonium in a wind orchestra and piano/bass in a blues-rock band.
-If I find time for it I would also love to look into writing and conducting music in the future. 
+In terms of research, I chose to focus on memory safety topics related to capability architectures, especially the [CHERI ISA extension](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/).
+I am a member of [machquadrat](https://machquadrat.org), a hacker-/makerspace in Styria/Austria.
+
+My biggest passion besides technology is definitely music.
+I've been playing euphonium since 2004, piano since 2012 and electric bass since 2021.
+I'm a member of [Stadtkapelle Gleisdorf](https://www.stadtkapelle-gleisdorf.at), where I play euphonium, and [High Gain](https://www.instagram.com/highgain_music/), where I play synth and bass.
+Besides live music, I have quite a few tools to create electronic music without a computer (DAWless setup).
+Sometimes I record little jams and upload them my [YouTube channel](https://www.youtube.com/@tunefish8041).
+
+When I'm not working or playing music somewhere, I enjoy reading [books](https://www.goodreads.com/tunefish) or [manga](https://myanimelist.net/mangalist/tunefish777), watching movies, series or [anime](https://myanimelist.net/animelist/tunefish777), going to the gym and bouldering/rope climbing.
 
 ### Contact me
 There are several ways to contact me:
@@ -20,7 +26,6 @@ There are several ways to contact me:
 |          |                                                                   |
 |----------|-------------------------------------------------------------------|
 | email    | [moritz.waser@tunefish.at](mailto:moritz.waser@tunefish.at)       |
-| XMPP     | tunefish@tunefish.at                                              |
 | Github   | [tunefish777](https://github.com/tunefish777)                     |
 | Mastodon | [infosec.exchange/@tunefish](https://infosec.exchange/@tunefish)  |
 
