@@ -1,6 +1,6 @@
 ---
 title: "About me"
-date: 2024-08-18T11:23:00+01:00
+date: 2024-08-18T10:23:00+01:00
 draft: false
 ---
 Hi, my name is Moritz Waser (but I go by some form of 'tunefish' on almost every platform).
