@@ -1,7 +1,7 @@
 ---
-title: "Booting Blog"
-date: 2021-02-15T23:16:54+01:00
-draft: false
+title: "Something Something"
+date: 2025-05-16T16:00:00+01:00
+draft: true
 ---
 Hey there! Seems like you found your way into my aquarium.
 Up until now, not a lot was going on here. In fact, the whole site is still under construction in a lot of places so don't be suprised if the design changes in the future. You might be wondering how you ended up here - I cannot answer this question but I am glad you did. This article is my way of kicking off this blog by telling you more about me, why I decided to start a blog and what kind of content you can expect to be featured here in the future. 
