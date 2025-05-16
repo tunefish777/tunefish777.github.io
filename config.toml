@@ -4,12 +4,12 @@ title = 'tunefish Blog'
 theme = 'm10c'
 
 [outputs]
-home = [ "RSS", "HTML" ]
+home = [ "HTML" ]
 
-[outputFormats]
-[outputFormats.RSS]
-mediatype = "application/rss"
-baseName = "feed"
+#[outputFormats]
+#[outputFormats.RSS]
+#mediatype = "application/rss"
+#baseName = "feed"
 
 [menu]
 [[menu.main]]
@@ -47,11 +47,6 @@ baseName = "feed"
     name = "Github"
     url = "https://github.com/tunefish777"
 
-#[[params.social]]
-#    icon = "twitter"
-#    name = "Twitter"
-#    url = "https://twitter.com/tunefish_777"
-
 [[params.social]]
     icon = "mastodon"
     name = "Mastodon"
@@ -62,8 +57,13 @@ baseName = "feed"
     name = "email"
     url = "mailto:tunefish@tunefish.at"
 
-[[params.social]]
-    icon = "rss"
-    identifier = "rss"
-    name = "RSS"
-    url = "feed.xml"
+#[[params.social]]
+#    icon = "rss"
+#    identifier = "rss"
+#    name = "RSS"
+#    url = "feed.xml"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
