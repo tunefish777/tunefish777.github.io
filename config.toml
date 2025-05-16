@@ -30,11 +30,11 @@ home = [ "HTML" ]
     url = "/publications/"
     weight = 3
 
-[[menu.main]]
-    identifier = "links"
-    name = "Links"
-    url = "/links/"
-    weight = 4
+#[[menu.main]]
+#    identifier = "links"
+#    name = "Links"
+#    url = "/links/"
+#    weight = 4
 
 [params]
     author = 'tunefish'
