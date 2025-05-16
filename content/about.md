@@ -1,10 +1,10 @@
 ---
 title: "About me"
-date: 2024-08-18T10:23:00+01:00
+date: 2025-05-16T16:00:00+01:00
 draft: false
 ---
 Hi, my name is Moritz Waser (but I go by some form of 'tunefish' on almost every platform).
-I am currently a PhD-student in the System Security research group at the [Institute of Applied Information Processing and Communications (IAIK)](https://www.iaik.tugraz.at) at [TU Graz](https://www.tugraz.at) in Austria.
+I am currently a PhD-student in the System Security research group at the [Institute of Information Security (ISEC)](https://www.isec.tugraz.at) at [TU Graz](https://www.tugraz.at) in Austria.
 Before that, I was employed at [AVL List GmbH](https://www.avl.com) as a student trainee where I implement low level interfaces on microcontrollers for powertrain control applications.
 My interests are fairly widespread.
 When it comes to computer science I mostly enjoy working with hardware.
