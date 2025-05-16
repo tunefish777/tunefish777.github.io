@@ -6,11 +6,6 @@ theme = 'm10c'
 [outputs]
 home = [ "HTML" ]
 
-#[outputFormats]
-#[outputFormats.RSS]
-#mediatype = "application/rss"
-#baseName = "feed"
-
 [menu]
 [[menu.main]]
     identifier = "home"
@@ -29,12 +24,6 @@ home = [ "HTML" ]
     name = "Publications"
     url = "/publications/"
     weight = 3
-
-#[[menu.main]]
-#    identifier = "links"
-#    name = "Links"
-#    url = "/links/"
-#    weight = 4
 
 [params]
     author = 'tunefish'
@@ -56,12 +45,6 @@ home = [ "HTML" ]
     icon = "mail"
     name = "email"
     url = "mailto:tunefish@tunefish.at"
-
-#[[params.social]]
-#    icon = "rss"
-#    identifier = "rss"
-#    name = "RSS"
-#    url = "feed.xml"
 
 [markup]
     [markup.goldmark]
