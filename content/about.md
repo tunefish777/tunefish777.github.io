@@ -4,7 +4,7 @@ date: 2025-05-16T15:00:00+01:00
 draft: false
 ---
 Hi, my name is Moritz Waser (but I go by some form of 'tunefish' on almost every platform).
-I am currently a PhD-student in the System Security research group at the [Institute of Information Security (ISEC)](https://www.isec.tugraz.at) at [TU Graz](https://www.tugraz.at) in Austria, where I teach the Bachelor's course [Computer Organization and Networks](https://isec.tugraz.at/con) and [Digital System Design](https://isec.tugraz.at/dsd).
+I am currently a PhD-student in the System Security research group at the [Institute of Information Security (ISEC)](https://www.isec.tugraz.at) at [TU Graz](https://www.tugraz.at) in Austria, where I teach the Bachelor's course [Computer Organization and Networks](https://isec.tugraz.at/con) and the Master's course [Digital System Design](https://isec.tugraz.at/dsd).
 Before that, I was employed at [AVL List GmbH](https://www.avl.com) as a student trainee where I implement low level interfaces on microcontrollers for powertrain control applications.
 My interests are fairly widespread.
 When it comes to computer science I mostly enjoy working with hardware.
